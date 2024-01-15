@@ -25,8 +25,8 @@ let player = {
 
 let ballWidth=15;
 let ballHeight=15;
-let ballVelocityX=3;
-let ballVelocityY=2;
+let ballVelocityX=4;
+let ballVelocityY=5;
 
 ball={
     x:bWidth/2,
