@@ -230,5 +230,4 @@ function resetGame(){
     
     bricksArray=[];
     score=0;
-    createBricks();
-}
+    createBricks();}
